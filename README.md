@@ -1,6 +1,7 @@
 # Forcasting_Carbon_Dioxide
 
-"-------------------------------------------------------------------------------------------"\\
+"-------------------------------------------------------------------------------------------"
+
 " Atmospheric CO2 concentrations (ppm) derived from in situ air measurements                "
 " at Mauna Loa, Observatory, Hawaii: Latitude 19.5°N Longitude 155.6°W Elevation 3397m      "
 "                                                                                           "
@@ -18,7 +19,9 @@
 "                                                                                           "
 " Baseline data in this file through 07-Oct-2019 from archive dated 07-Oct-2019 13:40:07    "
 "                                                                                           "
+
 "-------------------------------------------------------------------------------------------"
+
 "                                                                                           "
 " Please cite as:                                                                           "
 "                                                                                           "
@@ -35,5 +38,6 @@
 " in "A History of Atmospheric CO2 and its effects on Plants, Animals, and Ecosystems",     "
 " editors, Ehleringer, J.R., T. E. Cerling, M. D. Dearing, Springer Verlag,                 "
 " New York, 2005.                                                                           "
-"                                                                                           "\\
+"                                                                                           "
+
 "-------------------------------------------------------------------------------------------"
