@@ -16,4 +16,4 @@ C. D. Keeling, S. C. Piper, R. B. Bacastow, M. Wahlen, T. P. Whorf, M. Heimann, 
 
 
 
-![Github outpu_24_0] (https://github.com/Tahahaha7/Forecast_Carbon_Dioxide/blob/master/output_24_0.png)
+![Github output_24_0] (https://github.com/Tahahaha7/Forecast_Carbon_Dioxide/blob/master/output_24_0.png)
